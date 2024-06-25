@@ -33,6 +33,7 @@
 
 <details>
 
+-   [`4d45aa2`](https://github.com/stdlib-js/stdlib/commit/4d45aa236afedd4bf2bcda0d444dc81bd8915a45) - **test:** add test cases to `blas/base/srotm` [(#2455)](https://github.com/stdlib-js/stdlib/pull/2455) _(by Aman Bhansali)_
 -   [`9de1979`](https://github.com/stdlib-js/stdlib/commit/9de1979e01566cdb52a8d7667fedd7418871e130) - **docs:** fix descriptions _(by Athan Reines)_
 -   [`15ea69b`](https://github.com/stdlib-js/stdlib/commit/15ea69be968a9dbc98310ad06a79f53759841ffc) - **fix:** update C examples and description for `blas/base/srotm` [(#2448)](https://github.com/stdlib-js/stdlib/pull/2448) _(by Aman Bhansali)_
 -   [`1c95092`](https://github.com/stdlib-js/stdlib/commit/1c950922dbe073c352ceec63a25b3d6972f9d668) - **fix:** perform float32 emulation in `blas/base/srotm` [(#2445)](https://github.com/stdlib-js/stdlib/pull/2445) _(by Aman Bhansali)_

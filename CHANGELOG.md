@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.1.0">
 
-## Unreleased (2024-07-07)
+## 0.1.0 (2024-07-27)
 
 <section class="features">
 
@@ -33,6 +33,7 @@
 
 <details>
 
+-   [`d04dcbd`](https://github.com/stdlib-js/stdlib/commit/d04dcbd6dc3b0bf4a89bd3947d317fa5ff15bb38) - **docs:** remove private annotations in C comments _(by Philipp Burckhardt)_
 -   [`659f752`](https://github.com/stdlib-js/stdlib/commit/659f752db18317bf5fc237fdbcad0d74b61e1ed9) - **style:** add missing spaces _(by Philipp Burckhardt)_
 -   [`271f5d5`](https://github.com/stdlib-js/stdlib/commit/271f5d5d3e530225bd82f34efebf5df9a944fdde) - **refactor:** reduce code duplication in `blas/base` level 1 routines [(#2517)](https://github.com/stdlib-js/stdlib/pull/2517) _(by Aman Bhansali)_
 -   [`4d45aa2`](https://github.com/stdlib-js/stdlib/commit/4d45aa236afedd4bf2bcda0d444dc81bd8915a45) - **test:** add test cases to `blas/base/srotm` [(#2455)](https://github.com/stdlib-js/stdlib/pull/2455) _(by Aman Bhansali)_

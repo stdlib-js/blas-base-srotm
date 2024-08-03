@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-08-01)
+## Unreleased (2024-08-03)
 
 <section class="commits">
 
@@ -12,7 +12,7 @@
 
 <details>
 
--   [`22c4d29`](https://github.com/stdlib-js/stdlib/commit/22c4d29898e2b5bb4cb071a6b7f62536027eaf28) - **docs:** remove blank line _(by Athan Reines)_
+-   [`2777e4b`](https://github.com/stdlib-js/stdlib/commit/2777e4be161869d09406e3b17947d24c64b47af2) - **bench:** resolve lint errors in benchmarks _(by Athan Reines)_
 
 </details>
 
@@ -40,7 +40,61 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 ## 0.1.0 (2024-07-27)
 
-No changes reported for this release.
+<section class="features">
+
+### Features
+
+-   [`ad36a03`](https://github.com/stdlib-js/stdlib/commit/ad36a034d88d65ae6a68a4f79122f5867c02c596) - add `blas/base/srotm` [(#2267)](https://github.com/stdlib-js/stdlib/pull/2267)
+
+</section>
+
+<!-- /.features -->
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`15ea69b`](https://github.com/stdlib-js/stdlib/commit/15ea69be968a9dbc98310ad06a79f53759841ffc) - update C examples and description for `blas/base/srotm` [(#2448)](https://github.com/stdlib-js/stdlib/pull/2448)
+-   [`1c95092`](https://github.com/stdlib-js/stdlib/commit/1c950922dbe073c352ceec63a25b3d6972f9d668) - perform float32 emulation in `blas/base/srotm` [(#2445)](https://github.com/stdlib-js/stdlib/pull/2445)
+
+</section>
+
+<!-- /.bug-fixes -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`d04dcbd`](https://github.com/stdlib-js/stdlib/commit/d04dcbd6dc3b0bf4a89bd3947d317fa5ff15bb38) - **docs:** remove private annotations in C comments _(by Philipp Burckhardt)_
+-   [`659f752`](https://github.com/stdlib-js/stdlib/commit/659f752db18317bf5fc237fdbcad0d74b61e1ed9) - **style:** add missing spaces _(by Philipp Burckhardt)_
+-   [`271f5d5`](https://github.com/stdlib-js/stdlib/commit/271f5d5d3e530225bd82f34efebf5df9a944fdde) - **refactor:** reduce code duplication in `blas/base` level 1 routines [(#2517)](https://github.com/stdlib-js/stdlib/pull/2517) _(by Aman Bhansali)_
+-   [`4d45aa2`](https://github.com/stdlib-js/stdlib/commit/4d45aa236afedd4bf2bcda0d444dc81bd8915a45) - **test:** add test cases to `blas/base/srotm` [(#2455)](https://github.com/stdlib-js/stdlib/pull/2455) _(by Aman Bhansali)_
+-   [`9de1979`](https://github.com/stdlib-js/stdlib/commit/9de1979e01566cdb52a8d7667fedd7418871e130) - **docs:** fix descriptions _(by Athan Reines)_
+-   [`15ea69b`](https://github.com/stdlib-js/stdlib/commit/15ea69be968a9dbc98310ad06a79f53759841ffc) - **fix:** update C examples and description for `blas/base/srotm` [(#2448)](https://github.com/stdlib-js/stdlib/pull/2448) _(by Aman Bhansali)_
+-   [`1c95092`](https://github.com/stdlib-js/stdlib/commit/1c950922dbe073c352ceec63a25b3d6972f9d668) - **fix:** perform float32 emulation in `blas/base/srotm` [(#2445)](https://github.com/stdlib-js/stdlib/pull/2445) _(by Aman Bhansali)_
+-   [`ad36a03`](https://github.com/stdlib-js/stdlib/commit/ad36a034d88d65ae6a68a4f79122f5867c02c596) - **feat:** add `blas/base/srotm` [(#2267)](https://github.com/stdlib-js/stdlib/pull/2267) _(by Aman Bhansali, Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 3 people contributed to this release. Thank you to the following contributors:
+
+-   Aman Bhansali
+-   Athan Reines
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
 
 </section>
 

@@ -86,7 +86,7 @@ The function has the following parameters:
 -   **strideX**: index increment for `x`.
 -   **y**: second input [`Float32Array`][mdn-float32array].
 -   **strideY**: index increment for `y`.
--   **param**: parameters for the modified Givens transformation
+-   **param**: parameters for the modified Givens transformation.
 
 The `N` and stride parameters determine how values in the strided arrays are accessed at runtime. For example, to apply a modified Givens plane rotation to every other element,
 
@@ -380,7 +380,7 @@ See [LICENSE][stdlib-license].
 
 ## Copyright
 
-Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 </section>
 

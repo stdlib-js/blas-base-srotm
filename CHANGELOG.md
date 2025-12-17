@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-07)
+## Unreleased (2025-12-17)
 
 <section class="features">
 
@@ -16,12 +16,28 @@
 
 <!-- /.features -->
 
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#9108](https://github.com/stdlib-js/stdlib/issues/9108)
+
+</section>
+
+<!-- /.issues -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`601434c`](https://github.com/stdlib-js/stdlib/commit/601434cd743a76e8079c58b39d406adbb5638657) - **chore:** fix JavaScript lint errors [(#9114)](https://github.com/stdlib-js/stdlib/pull/9114) _(by Rohit R Bhat)_
+-   [`3f7b1ed`](https://github.com/stdlib-js/stdlib/commit/3f7b1ed405cdb77a3357d424f462e8d3b2276df5) - **docs:** fix code in TSDoc examples _(by Philipp Burckhardt)_
+-   [`4977993`](https://github.com/stdlib-js/stdlib/commit/4977993a257fde660b0f8c5678ab0c8d6e26538a) - **docs:** fix example code _(by Philipp Burckhardt)_
+-   [`d559fd7`](https://github.com/stdlib-js/stdlib/commit/d559fd70de9ec9b1d72d22543876f380e4062c69) - **refactor:** update include header guards for single precision real packages [(#7710)](https://github.com/stdlib-js/stdlib/pull/7710) _(by Shabareesh Shetty)_
 -   [`09c9ceb`](https://github.com/stdlib-js/stdlib/commit/09c9ceb58c6dd23c10f1980094851983c57d693f) - **chore:** fix formatting _(by Athan Reines)_
 -   [`51bf6f9`](https://github.com/stdlib-js/stdlib/commit/51bf6f9d2bb027aacecda87e02f957badbc246b0) - **bench:** fix formatting _(by Athan Reines)_
 -   [`321e49e`](https://github.com/stdlib-js/stdlib/commit/321e49e9965648f1b5eb6a840fe454959af0ec49) - **docs:** add missing periods to list items _(by Philipp Burckhardt)_
@@ -40,11 +56,13 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Aman Bhansali
 -   Athan Reines
 -   Philipp Burckhardt
+-   Rohit R Bhat
+-   Shabareesh Shetty
 
 </section>
 

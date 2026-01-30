@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/blas-base-srotm",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Apply a modified Givens transformation.",
   "license": "Apache-2.0",
   "author": {
@@ -42,23 +42,23 @@
   },
   "dependencies": {
     "@stdlib/assert-is-error": "^0.2.2",
-    "@stdlib/blas-base-shared": "^0.1.0",
+    "@stdlib/blas-base-shared": "^0.2.0",
     "@stdlib/napi-argv": "^0.2.2",
     "@stdlib/napi-argv-float32array": "^0.2.2",
     "@stdlib/napi-argv-int64": "^0.2.2",
     "@stdlib/napi-argv-strided-float32array": "^0.2.2",
-    "@stdlib/napi-export": "^0.2.2",
+    "@stdlib/napi-export": "^0.3.0",
     "@stdlib/number-float64-base-to-float32": "^0.2.2",
-    "@stdlib/strided-base-min-view-buffer-index": "^0.2.2",
+    "@stdlib/strided-base-min-view-buffer-index": "^0.3.0",
     "@stdlib/strided-base-stride2offset": "^0.1.0",
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.2",
-    "@stdlib/utils-library-manifest": "^0.2.2",
+    "@stdlib/utils-library-manifest": "^0.2.3",
     "@stdlib/utils-try-require": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/array-float32": "^0.2.2",
     "@stdlib/assert-is-browser": "^0.2.2",
-    "@stdlib/blas-base-scopy": "^0.2.2",
+    "@stdlib/blas-base-scopy": "^0.3.0",
     "@stdlib/constants-float32-eps": "^0.2.2",
     "@stdlib/math-base-assert-is-nanf": "^0.2.2",
     "@stdlib/math-base-special-abs": "^0.2.2",

@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import srotm from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-srotm@deno/mod.js';
+import srotm from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-srotm@v0.2.1-deno/mod.js';
 ```
 
 #### srotm( N, x, strideX, y, strideY, param )
@@ -163,7 +163,7 @@ srotm.ndarray( 3, x, 2, 1, y, 2, 1, param );
 
 ```javascript
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@deno/mod.js';
-import srotm from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-srotm@deno/mod.js';
+import srotm from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-base-srotm@v0.2.1-deno/mod.js';
 
 var opts = {
     'dtype': 'float32'

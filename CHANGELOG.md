@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-18)
+## Unreleased (2026-11-03)
 
 <section class="issues">
 
@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`78ad2fa`](https://github.com/stdlib-js/stdlib/commit/78ad2fa5dbb12ce808dec93197d5343745ff91b8) - **docs:** normalize trailing newlines in REPL help texts [(#16420)](https://github.com/stdlib-js/stdlib/pull/16420) _(by Philipp Burckhardt)_
 -   [`df8376c`](https://github.com/stdlib-js/stdlib/commit/df8376ca2bafd463c2b7f5189d1af8efd3a3c290) - **test:** migrate `blas/base/srotm` to ULP-based assertions [(#15018)](https://github.com/stdlib-js/stdlib/pull/15018) _(by Philipp Burckhardt, Athan Reines)_
 -   [`ec68ca7`](https://github.com/stdlib-js/stdlib/commit/ec68ca7cc35210db29a028d561ec71968e2ff753) - **docs:** fix TSDoc errors in `blas` declarations [(#12529)](https://github.com/stdlib-js/stdlib/pull/12529) _(by Philipp Burckhardt, Athan Reines)_
 -   [`651b8bb`](https://github.com/stdlib-js/stdlib/commit/651b8bbe847b7de36af899154eba488b13ef3f14) - **bench:** refactor to use dynamic memory allocation in `blas/base/srotm` [(#10313)](https://github.com/stdlib-js/stdlib/pull/10313) _(by Prajjwal Bajpai, stdlib-bot)_
